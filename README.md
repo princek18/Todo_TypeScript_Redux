@@ -1,3 +1,5 @@
+#By commenting either Display component or DisplayConnect Componenet in App.js you can check codes for Hooks and Connect().
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
